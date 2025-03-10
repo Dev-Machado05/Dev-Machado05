@@ -87,4 +87,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dev-Machado05/Dev-Machado05/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Dev-Machado05/Dev-Machado05/blob/output/github-snake-dark.svg)
