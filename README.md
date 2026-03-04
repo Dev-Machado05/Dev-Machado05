@@ -3,11 +3,13 @@
 ###
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Machado05&theme=midnight_purple" height="180em" />
   <img align="center" src="https://streak-stats.demolab.com?user=Dev-Machado05&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="180em" alt="streak graph"  />
+  </br></br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Machado05&theme=midnight_purple" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Machado05&theme=midnight_purple" height="180em" />
-  </br>
+  </br></br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Machado05&theme=midnight_purple" height="180em" />
+  </br></br>
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Machado05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Machado05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
