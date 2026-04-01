@@ -1,4 +1,4 @@
-<h2 align="center">Hi There!<br>My name is Lucas Machado and I'm a Frontend Developer, from Brazil.</h2>
+<h2 align="center">welcome to my profile!<br>My name is Lucas Machado and I'm a Frontend Developer, from Brazil.</h2>
 
 ###
 
